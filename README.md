@@ -1,7 +1,3 @@
-For your GitHub profile README, here's an engaging introduction that highlights your company's expertise and vision for Flutter development:
-
----
-
 # Welcome to Eastern Techno Solutions (I) Private Limited 🚀
 
 👋 Hi there! We are Eastern Techno Solutions (I) Private Limited, a forward-thinking IT company specializing in cutting-edge Flutter development. With a passion for creating high-performance, beautiful mobile applications, we bring your ideas to life—efficiently and effectively.
